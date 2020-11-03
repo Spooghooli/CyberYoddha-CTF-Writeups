@@ -10,7 +10,7 @@ If we scroll to the point between 12.70 and 14.20 we can see something interesti
 
 ![image](https://user-images.githubusercontent.com/70701563/98005043-4ebcf280-1df9-11eb-9f1b-0de6863fa40f.png)
 
-This looks like morse code, so I try to clear it up a bit using the vocal removal, low pass and high pass effects consecutively we get this:
+This looks like morse code, so I try to clear it up a bit using the vocal removal, low pass and high pass effects consecutively we get something like this:
 
 ![image](https://user-images.githubusercontent.com/70701563/98039392-4da2ba00-1e27-11eb-8826-322e9b5b0c20.png)
 
